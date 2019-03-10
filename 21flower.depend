@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401599476 source:z:\21flower\21flower\main.c
+	<stdio.h>
+	<time.h>
+
